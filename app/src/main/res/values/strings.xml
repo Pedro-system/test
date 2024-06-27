@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="nombre">Nombre</string>
+    <string name="edad">Edad</string>
+    <string name="domicilio_calle">Calle</string>
+    <string name="domicilio_no_exterior">No. exterior</string>
+    <string name="domicilio_no_interior">No. Interior</string>
+    <string name="domicilio_colonia">Colonia</string>
+    <string name="save">Guardar</string>
+    <string name="empty_error">Campo Requerido</string>
+    <string name="town">Municipio</string>
+    <string name="state">Entidad</string>
+    <string name="update">Actualizar</string>
+    <string name="delete">Eliminar</string>
+    <string name="alert">Alerta</string>
+    <string name="saveWithoutPhoto">Toma una selfie para completar el registro.\n</string>
+</resources>
